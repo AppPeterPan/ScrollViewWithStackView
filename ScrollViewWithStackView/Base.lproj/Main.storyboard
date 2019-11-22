@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14854.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14806.4"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15509"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -41,11 +41,11 @@
                                 </subviews>
                                 <constraints>
                                     <constraint firstItem="QFc-OR-gbF" firstAttribute="trailing" secondItem="vb7-fQ-PUY" secondAttribute="trailing" id="CTl-Ul-MRy"/>
+                                    <constraint firstItem="1uj-7l-eL6" firstAttribute="width" secondItem="KFq-xC-CXF" secondAttribute="width" id="Qe7-s9-ZDZ"/>
                                     <constraint firstItem="QFc-OR-gbF" firstAttribute="leading" secondItem="vb7-fQ-PUY" secondAttribute="leading" id="TDW-IH-1ah"/>
                                     <constraint firstItem="QFc-OR-gbF" firstAttribute="bottom" secondItem="vb7-fQ-PUY" secondAttribute="bottom" id="YSZ-rk-LMc"/>
-                                    <constraint firstItem="1uj-7l-eL6" firstAttribute="width" secondItem="QRe-lw-NsA" secondAttribute="width" id="YTM-T4-dY9"/>
+                                    <constraint firstItem="1uj-7l-eL6" firstAttribute="height" secondItem="KFq-xC-CXF" secondAttribute="height" id="jzH-zW-7RZ"/>
                                     <constraint firstItem="QFc-OR-gbF" firstAttribute="top" secondItem="vb7-fQ-PUY" secondAttribute="top" id="q3A-Cm-0wz"/>
-                                    <constraint firstItem="QFc-OR-gbF" firstAttribute="centerY" secondItem="QRe-lw-NsA" secondAttribute="centerY" id="ymI-9B-NHQ"/>
                                 </constraints>
                                 <viewLayoutGuide key="contentLayoutGuide" id="vb7-fQ-PUY"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="KFq-xC-CXF"/>
